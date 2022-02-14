@@ -1,5 +1,5 @@
 int diff(int a, int b)
 {
-	// added comment
+	// Adding comment 
 	return a-b;
 }
